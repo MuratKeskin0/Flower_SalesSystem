@@ -1,0 +1,15 @@
+Orchid,30.0
+Orchid,30.0
+Orchid,30.0
+Lily,70.0
+Orchid,30.0
+Orchid,30.0
+Orchid,30.0
+Lily,70.0
+Rose,20.0
+Daisy,15.0
+Orchid,30.0
+Orchid,30.0
+Orchid,30.0
+Lavender,40.0
+Lavender,40.0
